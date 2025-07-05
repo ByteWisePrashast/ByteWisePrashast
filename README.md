@@ -1,101 +1,100 @@
-## 👋 Hi there, I'm Prashast Mishra  
+<h1 align="center">Hi, I'm Prashast Mishra 👋</h1>
 
-🚀 **Full Stack Developer | Blockchain Engineer | DSA Practitioner**  
+<p align="center">
+  <b>Full Stack Developer | Blockchain Engineer | DSA Enthusiast</b><br>
+  Computer Science Graduate | Exploring Web3, Cloud, and Scalable Systems
+</p>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Prashast%20Mishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashast-mishra-490b66220/)](https://www.linkedin.com/in/prashast-mishra-490b66220/)  
-[![GitHub Badge](https://img.shields.io/badge/-ByteWisePrashast-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ByteWisePrashast)](https://github.com/ByteWisePrashast)  
-[![Gmail Badge](https://img.shields.io/badge/-prashast.mishra131@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prashast.mishra131@gmail.com)](mailto:prashast.mishra131@gmail.com)  
-[![Twitter Badge](https://img.shields.io/badge/-@PrashastMi4234-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/PrashastMi4234)](https://twitter.com/PrashastMi4234)
-
----
-
-### 🔍 About Me  
-
-- 🎓 **Computer Science Graduate** with a strong foundation in **Data Structures & Algorithms**  
-- 👨‍💻 Building production-grade **full-stack** and **Web3** applications  
-- 💡 Passionate about scalable systems, developer tooling, and decentralized tech  
-- 🌐 Exploring **Layer 2s, ZK tech, and distributed protocols**  
-- 💭 Tech-focused, problem-driven, always curious  
+<p align="center">
+  <a href="mailto:prashast.mishra131@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/prashast-mishra-490b66220/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ByteWisePrashast"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://twitter.com/PrashastMi4234"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack  
-
-#### 💻 Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)  
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)  
-
-#### 🌐 Frontend  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)  
-
-#### ⚙ Backend & Database  
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)  
-![Express.js](https://img.shields.io/badge/-Express.js-000?style=flat-square&logo=express)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)  
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)  
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)  
-
-#### ⛓ Blockchain & Web3  
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity)  
-![Hardhat](https://img.shields.io/badge/-Hardhat-FFDC50?style=flat-square&logo=ethereum)  
-![The Graph](https://img.shields.io/badge/-TheGraph-6742E2?style=flat-square&logo=the-graph)  
-![Ethers.js](https://img.shields.io/badge/-Ethers.js-3C3C3D?style=flat-square&logo=ethereum)  
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js)  
-
-#### 🔧 Tools & Platforms  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)  
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel)  
+## 🚀 About Me  
+- 👨‍🎓 CS Graduate with a passion for tech that solves real problems  
+- 🔁 Strong foundation in **DSA**, now building in **Full Stack & Web3**  
+- 🌐 Exploring **Layer 2s**, **ZK Proofs**, **Smart Contracts**, and **Cloud-native apps**  
+- 🎯 Focused on code quality, scalability, and performance  
+- 📚 Lifelong learner who enjoys building, breaking, and rebuilding systems
 
 ---
 
-### 📚 Currently Exploring  
+## 🛠️ Tech Stack
 
-- Layer-2s: **Fuel**, **Q Network**, **Rollups**  
-- Scalable data handling with **PostgreSQL**, **Redis**, and **The Graph**  
-- Wallet auth flows, smart contract security, and API-first architectures  
-- Personal DevOps pipeline setup and containerization strategies  
+<p align="center">
+  <strong>Languages:</strong><br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>Frontend:</strong><br>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>Backend & Database:</strong><br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>Blockchain & Web3:</strong><br>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity" />
+  <img src="https://img.shields.io/badge/Hardhat-FFCD00?style=flat&logo=ethereum&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=flat&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/TheGraph-5A3F85?style=flat&logo=the-graph&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white" />
+</p>
+
+## 🌱 Currently Exploring  
+- Fuel & Q Network Protocols  
+- Efficient smart contract indexing with The Graph  
+- Redis cache optimizations & PostgreSQL scaling  
+- Secure Web3 authentication patterns (wallet + OAuth)
 
 ---
 
-### 🧩 Featured Projects  
+## 💼 Notable Projects  
 
-- 🚀 **[LearnUp](https://learn-up-frontend.vercel.app/)**  
-  - MERN Stack learning platform  
-  - Authentication + Cloudinary media + Razorpay + Metamask  
-  - Redux for global state & modern UI with Tailwind  
+### 🧠 [LearnUp](https://learn-up-frontend.vercel.app/)  
+- MERN stack edtech platform  
+- Cloudinary media uploads + Razorpay + Metamask payments  
+- Redux-based state management  
 
-- ⚖️ **[LegalEase](https://legalease.onrender.com/)**  
-  - Full-stack e-marketplace for legal services  
-  - Real-time chat, role-based access, modular REST APIs  
-  - Optimized frontend with React + Tailwind  
-
----
-
-### 📈 GitHub Stats  
-
-![Prashast's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByteWisePrashast&show_icons=true&theme=github_dark&hide_title=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteWisePrashast&layout=compact&theme=github_dark)
+### ⚖️ [LegalEase](https://legalease.onrender.com/)  
+- E-marketplace for legal services  
+- Role-based auth, chat system, and RESTful APIs  
+- Responsive frontend with React + Tailwind
 
 ---
 
-### 🤝 Open to Opportunities  
+## 📈 GitHub Stats  
 
-I'm actively looking for:  
-- **Full Stack or Blockchain Development** roles  
-- **Freelance or OSS contributions**  
-- Projects with meaningful impact and great tech stacks
-
----
-
-📩 **Reach out:** prashast.mishra131@gmail.com  
-🔗 [GitHub](https://github.com/ByteWisePrashast) | [LinkedIn](https://www.linkedin.com/in/prashast-mishra-490b66220/) | [Twitter](https://twitter.com/PrashastMi4234)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ByteWisePrashast&show_icons=true&theme=github_dark" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteWisePrashast&layout=compact&theme=github_dark" height="170">
+</p>
 
 ---
 
-⚡ **Fun Fact:** I'm lowkey obsessed with thriller storylines, deep tech, and learning how to **balance productivity with peace** 🧠✨
+## 🤝 Let’s Connect  
+If you're working on something exciting in **Web3**, **Full Stack**, or **AI-integrated apps** — I’d love to connect!
+
+📬 **Email:** prashast.mishra131@gmail.com  
+🔗 [GitHub](https://github.com/ByteWisePrashast) | [LinkedIn](https://www.linkedin.com/in/prashast-mishra-490b66220/) | [Twitter](https://twitter.com/PrashastMi4234)
+
+---
+
+💡 **Fun Fact:** I’m a fan of psychological thrillers, futuristic tech, and spontaneous deep dives into open-source rabbit holes! 😄
